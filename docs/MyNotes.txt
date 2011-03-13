@@ -1,0 +1,19 @@
+Template project based on CMS project
+-----
+Dev.on: 20110227_0000
+Upd.on: 20110311_1228
+------
+Notes:-
+1. Based on eBook-"Pro Zend Framework Techniques, Build a Full CMS Project" by Forrest Lyman
+------
+Version History:
+
+0.3-20110311-zfcms-crud
+	- CRUD database operations
+0.2-20110306-zfcmd-skin
+	- Skin feature
+0.1-20110227-zfcms-layout
+	- Layout feature
+=====================
+zf05-zfcms-crud.zip
+	- CRUD features templated
