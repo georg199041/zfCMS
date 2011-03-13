@@ -1,0 +1,48 @@
+zfCMS [version-0.3]
+A very simple CMS application based on Zend Framework
+Author: natrajv@yahoo.com
+-----
+Objectives:-
+	- Learn beautiful Zend Framework
+	- CMS concepts and develop a simple one
+	- Learn Git.. ;)
+	- Integration of third-party to zf
+		+ jQuery 			- for Ajax (v0.0)
+		+ jQuery UI 		- for Ajax based GUI
+		+ Doctrine 2 ORM 	- for database
+		+ PHPUnit			- for testing
+		+ Selenium 			- for automated web app testing
+	- Zend Framework Features
+		+ Layout		- v0.1
+		+ Skin 			- v0.2
+		+ CRUD			- v0.3
+		+ ACL		
+		+ PDF creation	- 
+		+ 
+	- CMS Features
+		+ Layout
+		+ Create Page
+		+ Create Menu
+		+ Login/User Mgmt.
+		+ 
+-----
+Notes:-
+	- Based on book: Pro Zend Framework Techniques, Author: Forrest Lyman (thank u dude!)
+	- Objective of this CMS to understand Zend Framework concepts and general CMS concepts
+-----	
+upd.dt: 20110313_1103
+=====================
+
+Version history:
+0.1 - zfCMS layout
+ 	- released on: 27/02/2011
+0.2 - zfCMS skin - release
+	- released on: 06/03/2011
+0.3 - zfCMS CRUD feature added
+	- released on: 13/03/2011
+	
+======================
+Installation notes:-
+- Create MySQL database from ~/misc/zfcms-db.sql
+- 
+======================
